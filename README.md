@@ -2,6 +2,7 @@
 
 ![Hardware](https://img.shields.io/badge/Hardware-PCB-red)
 ![Design](https://img.shields.io/badge/Design-Schematic-blue)
+![made-with-eagle](https://img.shields.io/badge/Made%20with-Eagle-blue.svg)
 ![license](https://img.shields.io/badge/license-MIT-green)
 
 ## Overview
